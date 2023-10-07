@@ -45,8 +45,7 @@ dependencies:
   uuid: ^4.1.0
   quill_delta: ^3.0.0-nullsafety.2
   freezed_annotation: ^2.4.1
-  build_runner: ^2.4.6
-
+  json_annotation: ^4.8.1
 
 
 dev_dependencies:
